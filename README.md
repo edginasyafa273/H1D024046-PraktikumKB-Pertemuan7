@@ -1,4 +1,5 @@
-NIM: H1D024046
+# Nama : Edgina Syafa Ayu Wicaksono
+# NIM: H1D024046
 Praktikum Kecerdasan Buatan – Pertemuan 7
 
 Program ini merupakan implementasi Jaringan Syaraf Tiruan (JST) menggunakan TensorFlow dan Keras untuk melakukan klasifikasi tiga jenis bunga Iris. Model dilatih menggunakan dataset Iris untuk mengenali spesies Setosa, Versicolor, dan Virginica berdasarkan karakteristik bunga.
